@@ -278,7 +278,7 @@
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="l_product_item">
                                             <div class="l_p_img">
-                                                <a href="new-cars-product-details.php?pid=<?php echo $result5; ?>"><img src="<?php echo $imageurl.$result1; ?>" alt="<?php echo $Fpl['img_alt']; ?>" title="<?php echo $Fpl['img_title']; ?>" style="height:180px" width="100%"></a>
+                                                <a href="new-cars-product-details.php?pid=<?php echo $result5; ?>"><img src="<?php echo $result1; ?>" alt="<?php echo $Fpl['img_alt']; ?>" title="<?php echo $Fpl['img_title']; ?>" style="height:180px" width="100%"></a>
                                                 <h5 class="sale"><?php echo $Fpl['status']; ?></h5>
                                             </div>
                                             <div class="l_p_text">

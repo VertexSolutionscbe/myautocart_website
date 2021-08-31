@@ -111,7 +111,7 @@
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="l_product_item">
                                             <div class="l_p_img">
-                                                <a href="product-details.php?pid=<?php echo $result5; ?>"><img src="admin/dist/uploads/<?php echo $result1; ?>" alt="" style="height:220px"></a>
+                                                <a href="product-details.php?pid=<?php echo $result5; ?>"><img src="<?php echo $result1; ?>" alt="" style="height:220px"></a>
                                                 <h5 class="new" hidden>New</h5>
                                             </div>
                                             <div class="l_p_text">
@@ -462,7 +462,7 @@
                                             <li>
                                                 <div class="media">
                                                     <div class="d-flex">
-                                                        <img src="<?php echo $imageurl.$resultFProducts["photo"]; ?>" width="100px" height="50px" alt="">
+                                                        <img src="<?php echo $resultFProducts["photo"]; ?>" width="100px" height="50px" alt="">
                                                     </div>
                                                     <div class="media-body">
                                                         <h4><?php echo $resultFProducts["product_title"]; ?></h4>

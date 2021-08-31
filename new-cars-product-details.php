@@ -300,30 +300,30 @@ function myFunction() {
                                         <img src="<?php echo $Fpd['photo']; ?>"  alt=""  width="1920" height="1080" data-lazyload="<?php echo $Fpd['photo']; ?>" data-bgposition="center center" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                                         <!-- LAYERS -->
                                     </li>
-                                    <li data-index="rs-303" data-transition="scaledownfromleft" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="<?php echo $imageurl.$Fpd1['photo_1']; ?>"  data-rotate="0"  data-saveperformance="off"  data-title="The Dreaming Girl" data-param1="September 6, 2015" data-param2="Lol" data-description="">
+                                    <li data-index="rs-303" data-transition="scaledownfromleft" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="<?php echo $Fpd1['photo_1']; ?>"  data-rotate="0"  data-saveperformance="off"  data-title="The Dreaming Girl" data-param1="September 6, 2015" data-param2="Lol" data-description="">
                                         <!-- MAIN IMAGE -->
-                                        <img src="<?php echo $imageurl.$Fpd1['photo_1']; ?>"  alt=""  width="1920" height="1080" data-lazyload="<?php echo $imageurl.$Fpd1['photo_1']; ?>" data-bgposition="center center" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                        <img src="<?php echo $Fpd1['photo_1']; ?>"  alt=""  width="1920" height="1080" data-lazyload="<?php echo $Fpd1['photo_1']; ?>" data-bgposition="center center" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                                         <!-- LAYERS -->
                                     </li>
                                     <!-- SLIDE  -->
-                                    <li data-index="rs-301" data-transition="scaledownfromleft" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="<?php echo $imageurl.$Fpd1['photo_3']; ?>"  data-rotate="0"  data-saveperformance="off"  data-title="Ride my Bike" data-param1="September 4, 2015" data-param2="Why not another Image?" data-description="">
+                                    <li data-index="rs-301" data-transition="scaledownfromleft" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="<?php echo $Fpd1['photo_3']; ?>"  data-rotate="0"  data-saveperformance="off"  data-title="Ride my Bike" data-param1="September 4, 2015" data-param2="Why not another Image?" data-description="">
                                         <!-- MAIN IMAGE -->
-                                        <img src="<?php echo $imageurl.$Fpd1['photo_3']; ?>"  alt=""  width="1920" height="1080" data-lazyload="<?php echo $imageurl.$Fpd1['photo_3']; ?>" data-bgposition="center center" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                        <img src="<?php echo $Fpd1['photo_3']; ?>"  alt=""  width="1920" height="1080" data-lazyload="<?php echo $Fpd1['photo_3']; ?>" data-bgposition="center center" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                                         <!-- LAYERS -->
                                     </li>
                                     <!-- SLIDE  -->
-                                    <li data-index="rs-302" data-transition="scaledownfromleft" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="<?php echo $imageurl.$Fpd1['photo_4']; ?>"  data-rotate="0"  data-saveperformance="off"  data-title="Ride my Bike" data-param1="September 4, 2015" data-param2="Why not another Image?" data-description="">
+                                    <li data-index="rs-302" data-transition="scaledownfromleft" data-slotamount="default"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="<?php echo $Fpd1['photo_4']; ?>"  data-rotate="0"  data-saveperformance="off"  data-title="Ride my Bike" data-param1="September 4, 2015" data-param2="Why not another Image?" data-description="">
                                         <!-- MAIN IMAGE -->
-                                        <img src="<?php echo $imageurl.$Fpd1['photo_4']; ?>"  alt=""  width="1920" height="1080" data-lazyload="<?php echo $imageurl.$Fpd1['photo_4']; ?>" data-bgposition="center center" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                        <img src="<?php echo $Fpd1['photo_4']; ?>"  alt=""  width="1920" height="1080" data-lazyload="<?php echo $Fpd1['photo_4']; ?>" data-bgposition="center center" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                                         <!-- LAYERS -->
                                     </li>
                                 </ul>								
                             </div>
 							<ul class="slider">
                               <li><img src="<?php echo $Fpd['photo']; ?>"></li>   
-                              <li><img src="<?php echo $imageurl.$Fpd1['photo_1']; ?>"></li>      
-                              <li><img src="<?php echo $imageurl.$Fpd1['photo_3']; ?>"></li>       
-                              <li><img src="<?php echo $imageurl.$Fpd1['photo_4']; ?>"></li>                                       
+                              <li><img src="<?php echo $Fpd1['photo_1']; ?>"></li>      
+                              <li><img src="<?php echo $Fpd1['photo_3']; ?>"></li>       
+                              <li><img src="<?php echo $Fpd1['photo_4']; ?>"></li>                                       
                             </ul> 														  			
                         </div>
                     </div>
